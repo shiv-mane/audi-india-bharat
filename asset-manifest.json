@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/audi-india-bharat/static/css/main.a1166789.css",
+    "main.js": "/audi-india-bharat/static/js/main.d2bb66c2.js",
+    "static/media/heroBackground3.png": "/audi-india-bharat/static/media/heroBackground3.7cf7d531df331b04d34d.png",
+    "static/media/AudiHead1.png": "/audi-india-bharat/static/media/AudiHead1.b7e7306bd315703f56da.png",
+    "static/media/heroBackground5.png": "/audi-india-bharat/static/media/heroBackground5.ef98b9d008cba474c4db.png",
+    "static/media/imageBackground7.png": "/audi-india-bharat/static/media/imageBackground7.1fa760b1ef5a420eba2d.png",
+    "index.html": "/audi-india-bharat/index.html",
+    "main.a1166789.css.map": "/audi-india-bharat/static/css/main.a1166789.css.map",
+    "main.d2bb66c2.js.map": "/audi-india-bharat/static/js/main.d2bb66c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1166789.css",
+    "static/js/main.d2bb66c2.js"
+  ]
+}
